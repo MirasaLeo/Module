@@ -1,5 +1,5 @@
 namespace: scu-hotpot
 modules:
-  - https://github.com/MirasaLeo/CANManager.git
-  - https://github.com/MirasaLeo/DJIMotor.git
-  - https://github.com/MirasaLeo/DMMotor.git
+  - git@github.com:MirasaLeo/CANManager.git
+  - git@github.com:MirasaLeo/DJIMotor.git
+  - git@github.com:MirasaLeo/DMMotor.git
